@@ -11,4 +11,4 @@ class Square:
         Args:
             size - represents the size of the square defined
         """
-        self._size = size
+        self.__size = size
